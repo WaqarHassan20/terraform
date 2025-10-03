@@ -1,0 +1,5 @@
+do_token_day_3 = "YOUR_DIGITALOCEAN_TOKEN_HERE"
+image_value    = "YOUR_IMAGE_HERE (e.g., ubuntu-22-04-x64)"
+size_value     = "YOUR_SIZE_HERE (e.g., s-1vcpu-1gb)"
+name_value     = "YOUR_DROPLET_NAME_HERE (e.g., shaku-don)"
+region_value   = "YOUR_REGION_HERE (e.g., blr1)"
