@@ -1,0 +1,11 @@
+do_token_day_5 = "YOUR_DIGITALOCEAN_TOKEN_HERE"
+
+# use these do_space_secret_key and do_space_access_key to export them in the shell to access the values
+# while running time and get the access to the bucket
+
+do_space_access_key = "YOUR_S3_BUCKET_ACCESS_KEY_ID_HERE"
+do_space_secret_key = "YOUR_S3_BUCKET_SECRET_KEY_ID_HERE"
+
+# export these values in the shell like this : 
+export AWS_ACCESS_KEY_ID="YOUR_S3_BUCKET_ACCESS_KEY_ID_HERE"
+export AWS_SECRET_ACCESS_KEY="YOUR_S3_BUCKET_ACCESS_KEY_ID_HERE"

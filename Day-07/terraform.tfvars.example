@@ -1,0 +1,2 @@
+do_token_day_7 = "YOUR_DIGITAL_OCEAN_TOKEN_HERE"
+droplet-name   = "dev-droplet"
