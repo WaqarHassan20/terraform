@@ -1,0 +1,3 @@
+do_token_day_8  = "YOUR-DIGITAL-OCEAN-TOKEN-HERE"
+vault_secret_id = "YOUR-VAULT-SECRET-ID-HERE"
+vault_role_id   = "YOUR-VAULT-ROLE-ID-HERE"
